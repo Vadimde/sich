@@ -45,10 +45,17 @@ clear:both;
 background: #838283;
 height: 70px;
 width: 100%;
+padding-top: 1em;
 }
 table {
   font-size: 20px;
 }
 td {
-  padding: 2% 35px;
+  padding: 1% 35px;
 }
+a {
+  color:white;
+  text-decoration: none;
+}
+.menu {
+  font-size: 2em;
