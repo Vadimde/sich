@@ -26,7 +26,7 @@ float: left;
 width: 60%;
 height: 800px;
 }
-#matches {
+#results {
 background: #F2FFD2;
 float: left;
 width: 20%;
@@ -59,3 +59,4 @@ a {
 }
 .menu {
   font-size: 2em;
+}

@@ -1,0 +1,80 @@
+body {
+background: #DFBDB9;
+color: #000000;
+font-family: Trebuchet MS, Arial, Times New Roman;
+font-size: 12px;
+}
+#container {
+width: 80%;
+margin:auto;
+background;
+height: 1220px;
+}
+#header {
+background: #fff;
+height: 200px;
+width: 100%;
+}
+#menu {
+background: #F27649;
+width: 100%;
+height: 50px;
+}
+#clear {
+clear:both;
+}
+#footer {
+background: #838283;
+height: 70px;
+width: 100%;
+padding-top: 1em;
+}
+table {
+  font-size: 20px;
+}
+td {
+  padding: 1% 35px;
+}
+a {
+  color:white;
+  text-decoration: none;
+}
+.menu {
+  font-size: 2em;
+}
+#table {
+  width: 30%;
+  height: 600px;
+  float: left;
+  background: #DAFFD2;
+}
+#played {
+  width: 35%;
+  height: 600px;
+  float: left;
+  background: #654422;
+}
+#not_played {
+  width: 35%;
+  height: 600px;
+  float: left;
+  background: cyan;
+}
+#strikers {
+  width: 33%;
+  height: 300px;
+  float: left;
+  background: orange;
+}
+#assistants {
+  width: 33%;
+  height: 300px;
+  float: left;
+  background: green;
+}
+#best {
+  width: 34%;
+  height: 300px;
+  float: left;
+  background: gold;
+}
