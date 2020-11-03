@@ -51,3 +51,8 @@ a {
   color:white;
   text-decoration: none;
 }
+p {
+  padding-left: 1em;
+  font-size: 3em;
+  color: #937800;
+}

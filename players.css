@@ -23,35 +23,35 @@ height: 50px;
 #goalkeepers {
   width: 100%;
   height: 120px;
-  background: #ffffb1;
-  color:violet;
+  background: #b8a18f;
+  color:#891d65;
   padding-top: 4pt;
 }
 #defenders {
   width: 100%;
   height: 200px;
-  background: #ffffb1;
+  background: #b8a19f;
   color:blue;
   padding-top: 4pt;
 }
 #midfielders {
   width: 100%;
   height: 200px;
-  background: #ffffb1;
+  background: #b8a1Af;
   color:green;
   padding-top: 4pt;
 }
 #attackers {
   width: 100%;
   height: 200px;
-  background: #ffffb1;
+  background: #b8a1bf;
   color:red;
   padding-top: 4pt;
 }
 #coachs {
   width: 100%;
   height: 80px;
-  background: #ffffb1;
+  background: #b8a1cf;
   color:brown;
   padding-top: 4pt;
   font-size: 120%;
